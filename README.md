@@ -1,5 +1,9 @@
-# Hello World! 👋  
-### 🚀 Turning Dreams into Reality...
+# 👋 Hello, World! 
+## 🚀 Turning Dreams into Reality...
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jam9582/jam9582/main/Dream.png" width="800"/>
+</p>
 
 Hi there! I'm an aspiring **backend developer** who recently transitioned into software development.  
 I majored in **Electrical Engineering** at Soongsil University in South Korea, and I'm currently expanding my skills in **backend technologies**.
@@ -12,7 +16,7 @@ I majored in **Electrical Engineering** at Soongsil University in South Korea, a
 
 ---
 
-## 🔧 Technologies & Tools
+## 🛠 Tech Stack & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -27,12 +31,3 @@ I majored in **Electrical Engineering** at Soongsil University in South Korea, a
 
 ## 🔥 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jam9582&theme=react)
-
----
-
-## 🌎 Visitors Count
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=jam9582.jam9582)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
-</p>
