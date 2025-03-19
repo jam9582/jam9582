@@ -1,17 +1,13 @@
 # Hello Wrold! 👋  
-### 
+### Don’t study to learn, study to create!
+### Let’s goooooo!
 
-My motto is this!
-Don’t study to learn, study to create!
 
-Let’s go!
-
-https://velog.io/@jjam9582/posts
 
 I majored in Electrical Engineering at Soongsil University, and I’ve just started my journey into development.
 - 🚀 I’m currently learning **JavaScript, Spring Framework, and React API**
 - 💡 Ask me about **Python, Django, FastAPI**
-- 📫 Reach me at: `jjam9582@naver.com`
+- 📫 my velog: `[jam](https://velog.io/@jjam9582/posts)`
 
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white)
