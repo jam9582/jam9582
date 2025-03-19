@@ -1,30 +1,38 @@
-# Hello Wrold! 👋  
-### Don’t study to learn, study to create!
-### Let’s goooooo!
+# Hello World! 👋  
+### 🚀 Turning Dreams into Reality...
 
+Hi there! I'm an aspiring **backend developer** who recently transitioned into software development.  
+I majored in **Electrical Engineering** at Soongsil University in South Korea, and I'm currently expanding my skills in **backend technologies**.
 
+### 🌱 What I'm Learning
+- 🏗 **Backend Development**: JavaScript, Spring Framework, React API
+- 📚 **Continuous Growth**: Exploring best practices in software engineering
 
-I majored in Electrical Engineering at Soongsil University, and I’ve just started my journey into development.
-- 🚀 I’m currently learning **JavaScript, Spring Framework, and React API**
-- 💡 Ask me about **Python, Django, FastAPI**
-- 📫 my velog: `[jam](https://velog.io/@jjam9582/posts)`
+🔗 **Check out my dev blog** → [Velog](https://velog.io/@jjam9582/posts)
+
+---
 
 ## 🔧 Technologies & Tools
-![JavaScript](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+---
 
 ## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jam9582&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jam9582&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jam9582&layout=compact&theme=tokyonight)
 
-## 🏆 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jam9582&layout=compact&theme=tokyonight)
+---
 
-## 🔥 My Contribution Graph
+## 🔥 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jam9582&theme=react)
 
-## 📍 Visitor Count
+---
+
+## 🌎 Visitors Count
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=jam9582.jam9582)
 
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
+</p>
