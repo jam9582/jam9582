@@ -1,13 +1,20 @@
-# Hi there! 👋  
-### Welcome to my GitHub Profile!  
+# Hello Wrold! 👋  
+### 
 
-I am a backend developer passionate about building scalable systems and exploring new technologies.  
-- 🚀 I’m currently learning **Big Data & Machine Learning**
+My motto is this!
+Don’t study to learn, study to create!
+
+Let’s go!
+
+https://velog.io/@jjam9582/posts
+
+I majored in Electrical Engineering at Soongsil University, and I’ve just started my journey into development.
+- 🚀 I’m currently learning **JavaScript, Spring Framework, and React API**
 - 💡 Ask me about **Python, Django, FastAPI**
-- 📫 Reach me at: `your_email@example.com`
+- 📫 Reach me at: `jjam9582@naver.com`
 
 ## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
